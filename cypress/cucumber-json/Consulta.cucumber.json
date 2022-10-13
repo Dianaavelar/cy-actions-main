@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Consulta site ULTIMA",
+    "line": 1,
+    "id": "consulta-site-ultima",
+    "tags": [],
+    "uri": "Consulta.feature",
+    "elements": [
+      {
+        "id": "consulta-site-ultima;visualizar-dite",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Visualizar dite",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "acesso o site da ultima",
+            "result": {
+              "status": "passed",
+              "duration": 24341000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "acesse um curso",
+            "result": {
+              "status": "passed",
+              "duration": 9612000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "devo visualizar a pagina do curso",
+            "result": {
+              "status": "passed",
+              "duration": 10559000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
